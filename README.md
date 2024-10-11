@@ -28,10 +28,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
+
+
+
 ![sci](https://github.com/user-attachments/assets/6442919c-c382-43da-8ae8-8cb7782a8eec)
 
 
 ![sci1](https://github.com/user-attachments/assets/0207b32d-93ef-46bd-9210-adca46292aa8)
 
 
+
+
+## This project is licensed under the terms of the MIT license.
 
